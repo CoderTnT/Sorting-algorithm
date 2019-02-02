@@ -3,7 +3,7 @@ package sort;
 /**
  * @author liaoshaojie
  * @creatdate 2019/2/2
- * @describe
+ * @describe 选择排序 从数组第一位开始每次选出最小或者最大的值，补到第一位，下次循环从第二位开始一直到最后一位。
  */
 public class SortTogether {
 
